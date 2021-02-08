@@ -1,5 +1,5 @@
 CMP3006 EMBEDDED SYSTEM PROGRAMMING PROJECT 
-REPORT 
+
 Elmas Başak Gören
 	Project Aim
 The purpose of this project is to create a clock using TIMER interrupts with 12 and 24 hour alternating settings. It is also to make a general alarm adaptation for the clock by creating individual alarms for the 12-hour part and for the 24-hour part. It is also one of the features of this project to show the temperature on the lcd by creating a simple temperature for the system. This project was done using the Tinkercad platform and no extarnel library was used except for the use of Lcd.
